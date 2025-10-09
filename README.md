@@ -6,7 +6,7 @@ eu ainda to trabalhando pra terminar de montar e configurar antes de criar a EFI
 
 
 # Tools:
-[OpCcore Simplify](https://github.com/lzhoang2801/OpCore-Simplify)
+[OpCore Simplify](https://github.com/lzhoang2801/OpCore-Simplify)
 
 [OpenCore](https://github.com/acidanthera/OpenCorePkg)
 
