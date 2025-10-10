@@ -28,6 +28,8 @@ eu ainda to trabalhando pra terminar de montar e configurar antes de criar a EFI
 
 [Homebrew](https://brew.sh/)
 
+[Dual Boot + EFI](https://www.youtube.com/watch?v=rh6SgNsmT40)
+
 # Partially based/inspired on:
 https://github.com/Mojiberus/ProBook-440-G3-Hackintosh
 https://github.com/anullog/HP-ProBook-450-G3-Hackintosh
